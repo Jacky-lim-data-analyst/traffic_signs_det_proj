@@ -8,6 +8,6 @@ URL: https://github.com/opencv/opencv_extra/blob/5e3a56880fb115e757855f8e01e744c
 
 <div style="border: 2px solid #4CAF50; border-radius: 10px; padding: 20px; background-color: #f9f9f9; font-family: Arial, sans-serif; text-align: center;">
 
-The main source code is in `traffic_signs_det.ipynb`. Run all the code blocks to retrieve the results published on this Medium post.
+<p> The main source code is in `traffic_signs_det.ipynb`. Run all the code blocks to retrieve the results published on this Medium post. </p>
 
 </div>
